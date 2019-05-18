@@ -7,16 +7,18 @@
 [#]: via: (https://www.networkworld.com/article/3391016/edge-computing-is-in-most-industries-future.html#tk.rss_all)
 [#]: author: (Anne Taylor https://www.networkworld.com/author/Anne-Taylor/)
 
-Edge computing is in most industries’ future
+边缘计算是大多数行业的未来
 ======
-Nearly every industry can take advantage of edge computing in the journey to speed digital transformation efforts
+几乎每个行业都能够在加速数字化转型的进程中利用边缘计算的优势。
 ![iStock][1]
 
-The growth of edge computing is about to take a huge leap. Right now, companies are generating about 10% of their data outside a traditional data center or cloud. But within the next six years, that will increase to 75%, [according to Gartner][2].
+边缘计算的发展将取得一次巨大的飞跃。现在，公司在传统数据中心或云之外生成了10%的数据。但在未来六年内，这一比例将升至75%。
+[according to Gartner][2].
 
-That’s largely down to the need to process data emanating from devices, such as Internet of Things (IoT) sensors. Early adopters include:
+这很大程度上取决于处理来自设备数据的需要，比如物联网数据传感器。
+早起采用这一方法的人包括:
 
-  * **Manufacturers:** Devices and sensors seem endemic to this industry, so it’s no surprise to see the need to find faster processing methods for the data produced. A recent [_Automation World_][3] survey found that 43% of manufacturers have deployed edge projects. Most popular use cases have included production/manufacturing data analysis and equipment data analytics.
+  * **制造商:** 设备与传感器在这个行业似乎是特有的，因此需要为生产数据找到更快速的方法也就不足为奇。最近 [_Automation World_][3]研究发现43%的制造商已经部署了边缘计算。最Most popular use cases have included production/manufacturing data analysis and equipment data analytics.
 
   * **Retailers** : Like most industries deeply affected by the need to digitize operations, retailers are being forced to innovate their customer experiences. To that end, these organizations are “investing aggressively in compute power located closer to the buyer,” [writes Dave Johnson][4], executive vice president of the IT division at Schneider Electric. He cites examples such as augmented-reality mirrors in fitting rooms that offer different clothing options without the consumer having to try on the items, and beacon-based heat maps that show in-store traffic.
 
